@@ -1,0 +1,9 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+.ipynb_checkpoints/
+data/
+*.pyc
+*.h5
+trained/
+.DS_Store
